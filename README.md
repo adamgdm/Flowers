@@ -203,6 +203,7 @@ All of this is then combined and passed through an activation function.
 
 Let's take a look at an example to understand all of this better:
 
+```
 Input Layer : Single Input (x1) 
 	|
 	Connection : Weight (W1) and Bias (B1)
@@ -245,7 +246,7 @@ Input Layer : Single Input (x1)
 	This is a very very simple neural network. It has only 1 input, 1 hidden layer and 1 output. We should keep in mind that typically, a neural network has multiple inputs, multiple hidden layers and multiple outputs, Ranging from a few to hundreds of thousands.
 
 	![Neural Network](https://miro.medium.com/max/1400/1*ZB6H4HuF58VcMOWbdpcRxQ.jpeg)
-
+```
 ---
 
 Let's not forget about the activation function and non-linearity.
